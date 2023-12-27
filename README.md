@@ -26,10 +26,9 @@
 
 ###
 
-<p align="left">https://the-coffee-shop.surge.sh</p>  
+<p align="left">https://the-coffee-shop.surge.sh</p>
 
-
-###
+<br />
 
 <h2 align="left">Project 2: E-Commerce Furniture Store</h2>
 
@@ -53,7 +52,7 @@
 
 <p align="left">https://the-furniture-store.vercel.app</p>
 
-###
+<br />
 
 <h2 align="left">Project 3: Your AI Assistant</h2>
 
@@ -77,7 +76,7 @@
 
 <p align="left">https://your-ai-assistant.surge.sh</p>
 
-###
+<br />
 
 <h2 align="left">Project 4: Hotelbnb</h2>
 
@@ -109,7 +108,7 @@
 
 <p align="left">https://the-hotel-booking-system.vercel.app/</p>
 
-###
+<br />
 
 <h2 align="left">Project 5: Food Truck Mini Shop</h2>
 
