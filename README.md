@@ -29,7 +29,6 @@
 <p align="left">https://the-coffee-shop.surge.sh</p>
 
 ###
-###
 
 <h2 align="left">Project 2: E-Commerce Furniture Store</h2>
 
@@ -55,11 +54,11 @@
 
 ###
 
-<p align="left">As the name suggests it is an AI-based tool website like GhatGPT and Mid Journey. This tool can generate AI text as well as images and made by using HTML, CSS, Bootstrap, and Javascript. Open AI API has been used with the javascript fetch API to create the AI part. The prominent point of this app is that it behaves like a single-page application, it doesn't refresh on the page change and it is done with DOM Manipulation and Events.</p>
+<h2 align="left">Project 3: Your AI Assistant</h2>
 
 ###
 
-<h2 align="left">Project 3: Your AI Assistant</h2>
+<p align="left">As the name suggests it is an AI-based tool website like GhatGPT and Mid Journey. This tool can generate AI text as well as images and made by using HTML, CSS, Bootstrap, and Javascript. Open AI API has been used with the javascript fetch API to create the AI part. The prominent point of this app is that it behaves like a single-page application, it doesn't refresh on the page change and it is done with DOM Manipulation and Events.</p>
 
 ###
 
