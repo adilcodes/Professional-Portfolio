@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Project 1: Coffee Shop Website</h2>
+<h2 align="left">Project 1: The Coffee Shop</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 <br />
 
-<h2 align="left">Project 2: E-Commerce Furniture Store</h2>
+<h2 align="left">Project 2: The Furniture Store</h2>
 
 ###
 
