@@ -30,7 +30,29 @@
 
 <br />
 
-<h2 align="left">Project 2: The Furniture Store</h2>
+<h2 align="left">Project 2: Emoji Memory Game</h2>
+
+###
+
+<p align="left">The Emoji Memory Game is a fun project built with HTML, CSS, and JavaScript. In this game, you have to match all the cards within one minute to win; otherwise, you'll lose.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<p align="left">https://emojii-memory-game.vercel.app</p>
+
+<br />
+
+<h2 align="left">Project 3: The Furniture Store</h2>
 
 ###
 
@@ -51,30 +73,6 @@
 ###
 
 <p align="left">https://the-furniture-store.vercel.app</p>
-
-<br />
-
-<h2 align="left">Project 3: Your AI Assistant</h2>
-
-###
-
-<p align="left">As the name suggests it is an AI-based tool website like GhatGPT and Mid Journey. This tool can generate AI text as well as images and made by using HTML, CSS, Bootstrap, and Javascript. Open AI API has been used with the javascript fetch API to create the AI part. The prominent point of this app is that it behaves like a single-page application, it doesn't refresh on the page change and it is done with DOM Manipulation and Events.</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<p align="left">https://your-ai-assistant.surge.sh</p>
 
 <br />
 
@@ -129,5 +127,27 @@
 ###
 
 <p align="left">https://food-truck-shop.surge.sh</p>
+
+<br />
+
+<h2 align="left">Project 6: Easy Dictionary</h2>
+
+###
+
+<p align="left">Easy Dictionary is an English dictionary chrome extension built with HTML, CSS, and JavaScript. Below is the repository link where you can find the guide how to install it.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<p align="left">https://github.com/adilcodes/Easy-Dictionary</p>
 
 ###
