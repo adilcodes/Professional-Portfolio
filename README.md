@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Multi-Page beautifully designed Coffee shop website made in HTML, CSS, Bootstrap, and Javascript. The website shows the better customer experience they are providing by enabling them to order through the website before they reach the shop. Email Js (Client Side Mailing Javascript Library) has been used to get the details from the contact and placing order form on the email.</p>
+<p align="left">A beautifully designed multi-page Coffee shop website built with HTML, CSS, Bootstrap, and JavaScript. The website enhances customer experience by allowing users to place orders online before arriving at the shop. EmailJS, a client-side mailing JavaScript library, is integrated to capture and send details from the contact and order forms directly to your email.</p>
 
 ###
 
